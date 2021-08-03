@@ -19,7 +19,12 @@
   - git checkout <hash or head> if you forget the file you end up in detach
   - git chekcout main : go back to main 
   - git switch main : go back to main
-
+  - 'git remote add <name> <url> ': add the <url> as a remote with the name <name> 
+      - <name> is by convention called 'origin'
+  'git remote rm <name> removes the remote called <name>   
+  'git remote -v' : look at all the remotes you have
+    'git push <where> <what> : pushes the <what> branch to <where>
+   
  
  
 
