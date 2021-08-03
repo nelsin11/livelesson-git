@@ -25,6 +25,6 @@
   'git remote -v' : look at all the remotes you have
     'git push <where> <what> : pushes the <what> branch to <where>
    
- 
+ - 'git pull <where> <what> ' : pull the <what> branch in <where> to local computer.
  
 
